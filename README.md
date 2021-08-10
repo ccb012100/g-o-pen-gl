@@ -1,2 +1,2 @@
 # g-o-pen-gl
-Trying to learn OpenGL - using GoLang
+Trying to learn OpenGL - using Golang
